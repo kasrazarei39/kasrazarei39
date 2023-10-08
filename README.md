@@ -1,4 +1,11 @@
-### Hi 👋, I'm Kasra Zarei
+<center>
+  ### Hi 👋, I'm Kasra Zarei
+
+### 
+
+---
+
+</center>
 
 ### [A Blockchain Developer](https://github.com/kasrazarei39#a-Blockchain-Developer)
 
